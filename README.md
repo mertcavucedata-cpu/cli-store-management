@@ -21,3 +21,7 @@ Python öğrenme sürecimde temel veri yapıları, kullanıcı girdi yönetimi v
 * String metodları (`strip()`, `lower()`, `title()`)
 * Toplam tutar ve kargo mantığı algoritması oluşturma
 * Konsol üzerinde düzenli ve okunabilir çıktı tasarımı
+
+* ## 🖥️ Uygulama Arayüzü / Terminal Çıktısı
+
+![Terminal Arayüzü](terminal_arayuz.png)
